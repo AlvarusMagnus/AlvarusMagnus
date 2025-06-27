@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[AlvarusMagnus](https://github.com/user-attachments/assets/489ae778-1a8c-4428-a77c-b148fe7c2a99)" alt="Banner personal"/>
+  <img src="https://github.com/user-attachments/assets/4509709f-5314-4924-b9f9-ba67f9f26465" alt="Banner personal"/>
 </p>
 
 <h1 align="center">Salve, soy AlvarusMagnus👋</h1>
